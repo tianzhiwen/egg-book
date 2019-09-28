@@ -1,1 +1,1 @@
-console.log(`this a 12312312`)
+console.log(`AAA`)
