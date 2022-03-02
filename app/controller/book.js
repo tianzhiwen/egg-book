@@ -11,7 +11,7 @@ class BookController extends Controller{
         [
             {
                 id: parseInt(Math.random() * 1000),
-                name: '倚天屠龙记',
+                name: '倚天屠龙记001',
             },
             {
                 id: parseInt(Math.random() * 1000),
